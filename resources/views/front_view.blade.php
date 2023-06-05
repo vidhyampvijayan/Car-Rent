@@ -137,7 +137,8 @@ ul.contact-us li h5 {
 				<div class="page-header">
 					<h1>Rent a Car </h1>
 				</div>
-			
+                <a style="padding-left: 92%;" class="nav-link" href="{{ route('login') }}">Admin Login</a>
+             
 			</div>
 		</section>
 		<!-- /BREADCRUMBS -->

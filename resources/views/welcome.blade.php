@@ -152,7 +152,7 @@ ul.contact-us li h5 {
 <div class="product-list-item thumbnail no-border no-padding thumbnail-car-card clearfix first post-11009 product type-product status-publish has-post-thumbnail product_cat-hatchback-cars product_cat-manual-car product_group-hatchback-cars repupress_customize_woocommerce_productom_class instock shipping-taxable purchasable product-type-simple" class="thumbnail no-border no-padding thumbnail-car-card clearfix">
 
 	<div class="media">
-	<img src="{{$shows->image}}">
+	<img src="/image/{{ $shows->image }}">
 
 		
 	</div>
